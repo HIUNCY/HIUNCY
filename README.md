@@ -67,16 +67,6 @@ I'm passionate about creating **high-performance backend systems** that can scal
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HIUNCY&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 What I Build
 
 ```
